@@ -1,6 +1,5 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
-
+# Usman Tahir
+A Responsive Free One Page Portfolio Website
 
 
 
